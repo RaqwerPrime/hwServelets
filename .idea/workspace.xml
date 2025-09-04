@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b55cffb-2121-487b-8b8d-ef4a7b17d083" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../1/public/treug.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hwNetology/httpServer/public/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hwNetology/httpServer/public/classic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hwNetology/httpServer/public/events.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hwNetology/httpServer/public/events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hwNetology/httpServer/public/forms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hwNetology/httpServer/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hwNetology/httpServer/public/links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hwNetology/httpServer/public/resources.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hwNetology/httpServer/public/spring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hwNetology/httpServer/public/spring.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hwNetology/httpServer/public/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hwNetology/httpServer/public/treug.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hwNetology/hwShop/src/main/java/ruslan/araslanov/products/ElectronicProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hwNetology/hwShop/src/main/java/ruslan/araslanov/products/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hwNetology/hwShop/src/main/java/ruslan/araslanov/products/ProductCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hwNetology/hwShop/src/main/java/ruslan/araslanov/storage/ElectronicProductBaseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hwNetology/hwShop/src/main/java/ruslan/araslanov/storage/ElectronicProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hwNetology/hwShop/src/main/java/ruslan/araslanov/user/CreatingConsoleUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hwNetology/hwShop/src/main/java/ruslan/araslanov/user/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/CoffeeMachine/CoffeeMachine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/Cycles/Cycles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/DateAndTime/DateAndTime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/DateTime/DateTime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/DriverlessCar/DriverlessCar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/EncapsulationsExperiments/EncapsulationsExperiments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/FactorialCalculator/FactorialCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/FilinfStation/FilinfStation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/FilingStation/FilingStation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/Immutabillity/Immutabillity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/Ispravlenie/Ispravlenie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/Kata/Kata.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/PRAKTIKA 27/PRAKTIKA 27.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/Praktika 27 2/Praktika 27 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/Praktika 4.RAZDEL/Praktika 4.RAZDEL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/calc2/calc2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/cash/cash.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/conditions/conditions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/gotovyiCalc/gotovyiCalc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/homework 13.11/homework 13.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/internetShop/internetShop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/osnovaniuJava/osnovaniuJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/paraktikakaaa 26/paraktikakaaa 26.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/praktika/praktika.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/praktika2/06_PrimitiveDataTypes/IntOrInteger/IntOrInteger.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/praktika2/praktika2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/praktikaDom/praktikaDom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/praltika06.11.24/praltika06.11.24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/proveka/proveka.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="329PpAaC9mvKyXMS9czrPVNTawa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Smart Tomcat.TomCat 9.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ruslan/Desktop/servlets&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="TomCat 9" type="com.poratu.idea.plugins.tomcat">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="catalinaBase" value="C:\Users\Ruslan\.SmartTomcat\servlets\servlets" />
+      <option name="contextPath" value="/" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="extraClassPath" value="" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/9.0.108" />
+          <option name="path" value="$PROJECT_DIR$/../TomCat" />
+          <option name="version" value="9.0.108.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <module name="servlets" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b55cffb-2121-487b-8b8d-ef4a7b17d083" name="Changes" comment="" />
+      <created>1756829995011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756829995011</updated>
+      <workItem from="1756829996604" duration="1290000" />
+      <workItem from="1756831312914" duration="174000" />
+      <workItem from="1756831533468" duration="148000" />
+      <workItem from="1756831743179" duration="106000" />
+      <workItem from="1756832220184" duration="829000" />
+      <workItem from="1756833345647" duration="4217000" />
+      <workItem from="1756974706620" duration="1358000" />
+      <workItem from="1756983082399" duration="2222000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
