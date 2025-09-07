@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b55cffb-2121-487b-8b8d-ef4a7b17d083" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../05_di/.idea/05_di.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../1/public/treug.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../33/.idea/03_js.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotation/.idea/annotation.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../hwNetology/httpServer/public/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../hwNetology/httpServer/public/classic.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../hwNetology/httpServer/public/events.html" afterDir="false" />
@@ -54,7 +57,7 @@
       <change afterPath="$PROJECT_DIR$/../old Prj/praktikaDom/praktikaDom.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../old Prj/praltika06.11.24/praltika06.11.24.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../old Prj/proveka/proveka.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/config/JavaConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/config/JavaConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/controller/PostController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/controller/PostController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/repository/PostRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/repository/PostRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/service/PostService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/service/PostService.java" afterDir="false" />
@@ -64,6 +67,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -89,8 +99,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Smart Tomcat.TomCat 9.executor": "Run",
-    "git-widget-placeholder": "feature/di-annotation",
+    "git-widget-placeholder": "feature/di-java",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Ruslan/Desktop/servlets",
@@ -152,7 +163,7 @@
       <workItem from="1756974706620" duration="1358000" />
       <workItem from="1756983082399" duration="2663000" />
       <workItem from="1757146282902" duration="31000" />
-      <workItem from="1757231150075" duration="1767000" />
+      <workItem from="1757231150075" duration="3321000" />
     </task>
     <servers />
   </component>
