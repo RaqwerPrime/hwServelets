@@ -54,6 +54,8 @@
       <change afterPath="$PROJECT_DIR$/../old Prj/praktikaDom/praktikaDom.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../old Prj/praltika06.11.24/praltika06.11.24.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../old Prj/proveka/proveka.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +63,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -82,6 +84,7 @@
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;Smart Tomcat.TomCat 9.executor&quot;: &quot;Run&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -144,7 +147,8 @@
       <workItem from="1756832220184" duration="829000" />
       <workItem from="1756833345647" duration="4217000" />
       <workItem from="1756974706620" duration="1358000" />
-      <workItem from="1756983082399" duration="2222000" />
+      <workItem from="1756983082399" duration="2663000" />
+      <workItem from="1757146282902" duration="31000" />
     </task>
     <servers />
   </component>
